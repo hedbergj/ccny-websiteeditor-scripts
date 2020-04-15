@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+<question>
+<thequestion>I need to repeat a physics class but CunyFirst won't let me register since I've already taken it.</thequestion>
+<theanswer>Repeat authorizations need to be processed by your home department or major advisor. For example, if you're an engineering student, then please see an engineering advisor. If you're in the division of science, then CCAPP can help. Physics department advisors cannot approve such requests. </theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>If I repeat a physics class, do I need to repeat the labs as well?</thequestion>
+<theanswer>Absolutely. The labs are not considered a separate course and must be repeated if you retake an Intro Physics course (20300, 20400, 20700 and 20800). There are no exceptions to this rule. </theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+<question>
+<thequestion>
+What grade do I need in a physics to be considered passing?
+</thequestion>
+<theanswer>
+A grade of D or higher is considered passing and you can proceed to the next course in the sequence. However, your major/division might have other GPA requirements that you need to be aware of. For example, engineering requires a C or better in physics courses.
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+I took my physics classes at another CUNY - how do I get them evaluated for transfer equivalency?
+</thequestion>
+<theanswer>
+<![CDATA[Transfer credits from other CUNY campuses should be handled automatically. If there is an issue, please reach out to the <a href="https://www.ccny.cuny.edu/admissions/undergraduate-transfer-credit-evaluations">CCNY transfer evaluation office</a>. They will contact the physics department if there are any questions. Do not directly contact the physics department for evaluations. ]]>
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+I took my physics classes at another non-CUNY school - how do I get them evaluated for transfer equivalency?
+</thequestion>
+<theanswer>
+<![CDATA[Transfer credits from other schools will be processed by the transfer credit evaluation office. If there is an issue, please reach out to the <a href="https://www.ccny.cuny.edu/admissions/undergraduate-transfer-credit-evaluations">CCNY transfer evaluation office</a>. They will contact the physics department if there are any questions. Do not directly contact the physics department for evaluations. ]]>
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+The class or section I want is full - can I get an overtally?
+</thequestion>
+<theanswer>
+For the intro lab classes, there are generally no overtallies permitted since the number of seats is limited by the lab space. Please use the waitlist function on CunyFirst. (see the next question)
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+How does the waitlist function work?
+</thequestion>
+<theanswer>
+If a course is full, then you can apply to be on the waitlist. If a spot opens up, you will be automatically enrolled in the course provided the following criteria are met: a) you have all the pre/co-requisites done or in progress for the desired course, b) no holds on your account, and c) no conflicting classes in your schedule. You can also select a course to drop in case you are added.
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+I think I have the pre-reqs for a course, but it's still not letting me register.
+</thequestion>
+<theanswer>
+<![CDATA[Occasionally, there are errors in the CunyFirst databases that determine pre-reqs. If you believe there is an error, then contact a physics department <a href="https://www.ccny.cuny.edu/physics/physics-major-advisors">advisor</a> to fix the pre-req issue. ]]>
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+I know I don't have the pre-reqs for a course, but can I still take it?
+</thequestion>
+<theanswer>
+<![CDATA[Exceptions can be made for pre-req issues if deemed appropriate by an advisor. Contact a physics department <a href="https://www.ccny.cuny.edu/physics/physics-major-advisors">advisor</a> to discuss your request. Pre-reqs are there for good reasons however, so permissions will not be granted without good cause.]]>
+</theanswer>
+</question>
+
+<!-- *****  New Question  ****** -->
+
+<question>
+<thequestion>
+I took PHYS 20700, but now I want to take PHYS 20400 instead of 20800, can I?
+</thequestion>
+<theanswer>
+<![CDATA[Yes. Just see a physics <a href="https://www.ccny.cuny.edu/physics/physics-major-advisors">advisor</a> or visit the CCAPP advising office to have the pre-reqs fixed for your registration. (And be sure that 20400 counts for your major!)]]>
+</theanswer>
+</question>
+
+</questions>
